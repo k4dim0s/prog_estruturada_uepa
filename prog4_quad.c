@@ -3,7 +3,7 @@
 
 int main(){
     float n1, r, qp;
-    printf("Digite um valor: ");
+    printf("Digite um valor para ver sua quinta parte: ");
     scanf("%f", &n1);
     r = (n1 * n1);
     qp = (n1 / 5);
