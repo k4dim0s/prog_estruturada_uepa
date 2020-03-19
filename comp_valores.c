@@ -14,7 +14,7 @@ int main()
     printf("Digite o primeiro valor: ");
     scanf("%d", &b);
 
-    //calculo dos valores
+    //calculo dos valore
     if(a > b)
     {
         printf("O maior é %d", a);
